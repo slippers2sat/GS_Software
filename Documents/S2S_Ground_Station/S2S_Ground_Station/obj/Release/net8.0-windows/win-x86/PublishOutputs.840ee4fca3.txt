@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\S2S_Ground_Station.pdb
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\S2S_Ground_Station.dll.config
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\D3DCompiler_47_cor3.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\PenImc_cor3.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\PresentationNative_cor3.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\vcruntime140_cor3.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\wpfgfx_cor3.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\win-x86\S2S_Ground_Station.exe
